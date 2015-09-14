@@ -1,0 +1,12 @@
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Release\FYPPharmAssistant.Domain.dll.config
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Release\FYPPharmAssistant.Domain.dll
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Release\FYPPharmAssistant.Domain.pdb
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Release\EntityFramework.dll
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Release\EntityFramework.SqlServer.dll
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Release\EntityFramework.xml
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Release\EntityFramework.SqlServer.xml
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\obj\Release\FYPPharmAssistant.Domain.dll
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\obj\Release\FYPPharmAssistant.Domain.pdb
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\obj\Release\FYPPharmAssistant.Domain.Migrations.InitialCreate.resources
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\obj\Release\FYPPharmAssistant.Domain.csproj.GenerateResource.Cache
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\obj\Release\FYPPharmAssistant.Domain.Migrations.ChangesMadeToSupplier.resources

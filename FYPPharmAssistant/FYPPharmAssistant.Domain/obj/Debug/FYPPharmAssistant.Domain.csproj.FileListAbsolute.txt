@@ -1,0 +1,10 @@
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\obj\Debug\FYPPharmAssistant.Domain.csprojResolveAssemblyReference.cache
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Debug\FYPPharmAssistant.Domain.dll.config
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Debug\FYPPharmAssistant.Domain.dll
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Debug\FYPPharmAssistant.Domain.pdb
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Debug\EntityFramework.dll
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Debug\EntityFramework.xml
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\obj\Debug\FYPPharmAssistant.Domain.dll
+E:\islington\MyFYP\VisualStudio\FYPPharmAssistant\FYPPharmAssistant.Domain\obj\Debug\FYPPharmAssistant.Domain.pdb
